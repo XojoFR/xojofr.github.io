@@ -1,2 +1,2 @@
-[Accueil](xojofr.github.io)
+[Acceuil](https://xojofr.github.io)
 # Snake

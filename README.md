@@ -17,12 +17,7 @@ Les pages de se site ont pour but d'aider la communauté francophone à utiliser
 * La majorité des plug-ins sont aussi payants pour distribuer vos applications et l'additions peut vite monter.
 * La communauté de Xojo est largement plus petite que pour les autres langages. C'est encore plus vrai pour la communauté francophone. Ce site à pour ambition de fédérer la communauté. 
 ## Installer Xojo
-L'installation de Xojo est simple et rapide. Il n'y pas de dépendances à installer ou de manipulation à faire dans votre système. Il suffit de télécharger l'environnement qui correspond à votre sytème d'exploitation.
-
-<p align="center">
-  https://xojo.com/download/
-</p>
-
+L'installation de Xojo est simple et rapide. Il n'y pas de dépendances à installer ou de manipulation à faire dans votre système. Il suffit de télécharger la version qui correspond à votre sytème d'exploitation sur [xojo.com](https://xojo.com/download/)
 ## Tutoriaux
 ### Premiers pas
 Dans ce premier tutorial nous allons créer une application ludique. Il s'agit d'un petit jeu simple dans lequel l'utilisateur devra retrouver un nombre tiré au hasard. A chaque tentative nous indiquerons à l'utilisateur si le chiffre mystère est supérieur ou inférieur à la données saisie. Nous mettrons en place de bonnes techniques de programmation et rendrons notre code facimenent maintenable et réutilisable dans les différentes versions de notre application Desktop (macOs, Windows et Linux), Mobile (iOS) et Web.

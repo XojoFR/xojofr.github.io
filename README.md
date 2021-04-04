@@ -26,10 +26,10 @@ L'installation de Xojo est simple et rapide. Il n'y pas de dépendances à insta
 
 ## Tutoriaux
 ### Premiers pas
-Dans ce premier tutorial nous allons créer une application ludique. Il s'agit d'un petit jeu simple dans lequel l'utilisateur devra retrouver un nombre tiré au hasard. A chaque tentative nous indiquerons à l'utilisateur si le chiffre mystère est supérieur ou inférieur à la données saisie. Nous mettrons en place de bonnes techniques de programmation et rendrons notre code facimenent maintenable et réutilisable dans les différentes versions de notre application Desktop (macOs, Windows et Linux), Mobile (iOS) et Web.[C'est parti !] (xojofr.github.io/tutorial/NombreMystère.md)
+Dans ce premier tutorial nous allons créer une application ludique. Il s'agit d'un petit jeu simple dans lequel l'utilisateur devra retrouver un nombre tiré au hasard. A chaque tentative nous indiquerons à l'utilisateur si le chiffre mystère est supérieur ou inférieur à la données saisie. Nous mettrons en place de bonnes techniques de programmation et rendrons notre code facimenent maintenable et réutilisable dans les différentes versions de notre application Desktop (macOs, Windows et Linux), Mobile (iOS) et Web.[C'est parti !](/tutorial/NombreMystère.md)
 ## Challenges
 * ### Snake
-Dans ce challenge nous allons créer une version simplifié du célèbre jeu [Snake](https://fr.wikipedia.org/wiki/Snake_(genre_de_jeu_vidéo)) rendu célèbre en 1998 par Nokia.[C'est parti !] (xojofr.github.io/challenge/Snake.md)
+Dans ce challenge nous allons créer une version simplifié du célèbre jeu [Snake](https://fr.wikipedia.org/wiki/Snake_(genre_de_jeu_vidéo)) rendu célèbre en 1998 par Nokia.[C'est parti !](xojofr.github.io/challenge/Snake.md)
 ## Contributeurs
 ## Support et Contact
 * [Sébastien REMY](https://github.com/Sebastien-Remy)

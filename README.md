@@ -1,6 +1,5 @@
 # Bienvenue sur Xojo FR
 Les pages de se site ont pour but d'aider la communauté francophone à utiliser Xojo pour développer des applications sous macOS, Windows, Linux, Web et mobile.
-## Contenu
 * TOC
 {:toc}
 ## Pourquoi Xojo
@@ -31,7 +30,7 @@ Dans ce premier tutorial nous allons créer une application ludique. Il s'agit d
 ## Challenges
 * ### Snake
 Dans ce challenge nous allons créer une version simplifié du célèbre jeu [Snake](https://fr.wikipedia.org/wiki/Snake_(genre_de_jeu_vidéo)) rendu célèbre en 1998 par Nokia.
-[Snake](/tutorial/Snake.md)
+[Snake](/challenge/Snake.md)
 ## Contributeurs
 ## Support et Contact
 * [Sébastien REMY](https://github.com/Sebastien-Remy)
